@@ -1,6 +1,7 @@
 #🔒 Password Strength Meter with Streamlit
 
 import streamlit as st
+import re
 
 # Streamlit App Title
 st.title("🔐 Password Strength Meter")
